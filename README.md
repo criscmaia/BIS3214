@@ -16,5 +16,5 @@ For this coursework, the group will be creating different files, including the f
 The [GitHub guides](https://guides.github.com/) are **very** good! It is better if you read all of them (for your own knowledge), but for the sake of the group work you will need to understand the following:
 
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) - Understand how we keep the files organised.
-- [Forking Projects](https://guides.github.com/activities/forking/) - Explains how you synchronise the (BIS code)[https://github.com/criscmaia/BIS3214] to your computer.
+- [Forking Projects](https://guides.github.com/activities/forking/) - Explains how you synchronise the [BIS code](https://github.com/criscmaia/BIS3214) to your computer.
 - [Mastering Issues](https://guides.github.com/features/issues/) - How we are going to keep track of what needs to be done
