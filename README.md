@@ -18,8 +18,3 @@ The [GitHub guides](https://guides.github.com/) are **very** good! It is better 
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) - Understand how we keep the files organised.
 - [Forking Projects](https://guides.github.com/activities/forking/) - Explains how you synchronise the [BIS code](https://github.com/criscmaia/BIS3214) to your computer.
 - [Mastering Issues](https://guides.github.com/features/issues/) - How we are going to keep track of what needs to be done
-
-
-### Downloading GitHub
-- [Windows version](https://windows.github.com/)
-- [Mac version](https://windows.github.com/)
