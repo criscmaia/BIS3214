@@ -1,0 +1,37 @@
+body
+{
+    font-family: Arial, Serif, Sans Serif;
+    background-color: rgb(255,255,255);
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+img
+{
+    border: none;
+    vertical-align: bottom;
+}
+
+div
+{
+    padding: 1em;
+}
+
+.buttons
+{
+    background-color: rgb(238,238,238);
+    font-size: large;
+    padding: 6 6 6 6;
+}
+
+.pages
+{
+    height: 1em;
+    overflow: auto;
+}
+
+.content
+{
+    background-color: white;
+}
+
