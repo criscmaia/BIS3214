@@ -1,0 +1,43 @@
+Week 8 will be revising the coursework!
+
+Self assessment = "SO IMPORTANT" = page 4
+Peer assessment = page 8
+
+
+For a department/subsection:
+Data Mart = It is an access layer to a Data Warehouse.
+
+Go for "SME" (small and medium-sized enterprises).
+Up to 50 employees.
+
+MDX? Not a bad idea... easy to get information from.
+Teaching/Research/Students/Finance... MARKETING!
+
+1.3 =>  add the diagram! The triangle one, dividing S/T/O and subsections.
+Different levels of management something..
+Strategic
+Tatical
+Operation 
+
+2.1 = current operational system = transaction processing systems
+day to day activities which are processed within the organisation.
+hiring/recruiting/trainning => HR
+
+2 = DATA FLOW DIAGRAM! It includes all the 2.x things...
+
+
+Data store (DFD) is an entity on the ER and tables on the database schema
+Include the Determinacy diagram
+
+How many entities? Harjinder will find out...
+Minimum (!) 5... 
+
+- Meeting logs
+- Observation; Experiment; Surveys; Interviews; Questionaires
+
+
+Middlesex
+Marketing
+
+Marketing lecturerswor
+Gantt chart

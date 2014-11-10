@@ -1,0 +1,26 @@
+Design a data mark for an organisation of our choice
+1 - Introduction
+	what it is, what is imporant, vision, scope, choose the sub-section
+
+2 - What operation system they have in place? what data? where is it store?
+	design an ER diagram from the sction we've chosen. UML notation!
+	Adv/disadv. of having a data warehouse.
+	Slide week 4
+
+3 - Data mark design
+	two subject areas, within the section of the business
+	snowflake is normalised! star schema is not
+	
+4 - ETL process
+	how extract data from operational system?
+	what do you do with it before storing on the data warehouse
+	implement the prototype of one of the star schema
+	
+5 - OLAP.
+	how to query it?
+	what would managers be interested at?
+	
+6 - Conclusion
+	what challenges do we have to keep it up and running?
+	performance? amount of data stored? flexibility to adatp/include/remove different columns.
+
