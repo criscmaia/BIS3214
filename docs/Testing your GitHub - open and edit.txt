@@ -1,5 +1,0 @@
-Hey,
-
-Write your name below if you have managed to sync this file with your repository and can send a pull request  back to the main master.
-
-Cristiano
