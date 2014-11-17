@@ -1,0 +1,17 @@
+ERD Assumptions:
+The staff cannot be registered to more than one school.
+
+The Cost Center has a list of budget codes which are them assigned to Projects. One project has only one Budget Code assigned to it. One Budget Code is only assigned to one project. This budget does not include the staff salary. They will be used for advertisement, pay suppliers (such as........................)
+
+Staff fills the time sheet form every month stating how many hours they have worked on each project. Each staff's time sheet is paid by a specific Cost Center. The Cost Center pays to all staff registered on it, regardless of the project they have worked on.
+
+One staff is only assigned for one role per time. But there might be many people doing the same role.
+The staff must provide the home address which is then validated under address entitle. The list of countries name and its 
+code is stored under the Country name, which is linked with the Address.
+
+The Marketing department has a list of venues name and its location. This venues are booked by Event sessions. The sessions are part of an Event. Each session collects the attendees details, such as name of visitors who has registered on the MDX stand of an Open Day.
+
+An event can have 0 (if the event is online) or many sessions. Events are optional for each Project but one event can only be related to one Project at time.
+A project can have 0 (in case the tasks hasn't be assigned yet) or many tasks but a specific task can only be related to one project. An extra table called TaskHistory is responsible to keep track of all the tasks from any project even if it has been archived.
+
+Each project may have 0 or manys suppliers representative but each contact works only for one company and are working for one project at time.
