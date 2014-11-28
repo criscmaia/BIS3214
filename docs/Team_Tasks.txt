@@ -12,3 +12,12 @@ Jade/Veeraj:
 2 - Click on the Review tab
 3 - Activate "Track Changes"
 4 - Fix/update the red bits
+
+- Marketing Department (needs to expand on this)
+- Entity Relationship Diagram(ERD) description (hasn't been updated)
+
+Notes:
+No first person (I, we). Change it for "this report", "the marketing department"... or change it to passive mode, example:
+
+Instead of: "In the above figure we show the three different types of managements "
+Change to: "The figure above shows the three different types of managements "
