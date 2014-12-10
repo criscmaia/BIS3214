@@ -1,17 +1,12 @@
 --- PLEASE, DON'T EDIT THIS FILE --- 
 
 Cristiano:
-1 - Add external resources to ERD
 
 Kateryna:
-1 - Operational System - definition, advantages, disadvantages. Please, use books reference!
-ps: you don't need to worry with the Full Report file at all.
+1 - Add books reference
 
 Jade/Veeraj:
-1 - Open the FullReport.docx file
-2 - Click on the Review tab
-3 - Activate "Track Changes"
-4 - Fix/update the red bits
+Fix/update the red bits
 
 - Marketing Department (needs to expand on this)
 - Entity Relationship Diagram(ERD) description (hasn't been updated)
