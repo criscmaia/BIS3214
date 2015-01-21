@@ -1,18 +1,9 @@
---- PLEASE, DON'T EDIT THIS FILE --- 
+TODO:
 
-Cristiano:
+Veraj: Send minutes AND agendas. One or two per week.
 
-Kateryna:
-1 - Add books reference
+Kateryna: Finish the conclusion and add the correct references on the report.
 
-Jade/Veeraj:
-Fix/update the red bits
+Cristiano: Add the CREATE and INSERT table on the report
 
-- Marketing Department (needs to expand on this)
-- Entity Relationship Diagram(ERD) description (hasn't been updated)
-
-Notes:
-No first person (I, we). Change it for "this report", "the marketing department"... or change it to passive mode, example:
-
-Instead of: "In the above figure we show the three different types of managements "
-Change to: "The figure above shows the three different types of managements "
+Van: Fix the content highlighted on the report
